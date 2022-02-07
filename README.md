@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DionMontolalu&count_private=true&show_icons=true&theme=dark)](https://github.com/DionMontolalu/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=DionMontolalu&count_private=true&show_icons=true&theme=light)](https://github.com/DionMontolalu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DionMontolalu&layout=compact&theme=dark)](https://github.com/DionMontolalu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DionMontolalu&layout=compact&theme=light)](https://github.com/DionMontolalu/github-readme-stats)
