@@ -9,8 +9,8 @@
     I'm interested and working with:<br>
       <img align="center" src="https://avatars.githubusercontent.com/u/958072?s=200&v=4" alt="Laravel Framework" height="20" width="20" /> Laravel <br>
       <img align="center" src="https://avatars.githubusercontent.com/u/14998758?s=200&v=4" alt="Codeigniter Framework" height="20" width="20" /> Codeigniter <br>
-      <img align="center" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter Framework" height="20" width="20" /> Flutter
-      <img align="center" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="VueJS" height="20" width="20" /> VueJS
+      <img align="center" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter Framework" height="20" width="20" /> Flutter <br>
+      <img align="center" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="VueJS" height="20" width="20" /> VueJS <br>
    <img align="center" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="InertiaJS" height="20" width="20" /> Inertia.js
   </td>
   <td>
