@@ -15,12 +15,12 @@
       <img align="center" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="VueJS" height="20" width="20" /> VueJS <br>
    <img align="center" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="InertiaJS" height="20" width="20" /> Inertia.js
   </td>
-  <td>
+<!--   <td>
     I'm currently learning:<br>
       <img align="center" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" alt="NodeJS" height="20" width="20" /> NodeJS <br>
       <img align="center" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="ExcpressJS" height="20" width="20" /> ExpressJS <br>
       <img align="center" src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" alt="NodeJS" height="20" width="20" /> TailwindCSS <br>
-   </td>
+   </td> -->
  </tr>
 </table>
 
