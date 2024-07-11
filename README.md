@@ -13,7 +13,8 @@
       <img align="center" src="https://avatars.githubusercontent.com/u/14998758?s=200&v=4" alt="Codeigniter Framework" height="20" width="20" /> Codeigniter <br>
       <img align="center" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" alt="Flutter Framework" height="20" width="20" /> Flutter <br>
       <img align="center" src="https://avatars.githubusercontent.com/u/6128107?s=200&v=4" alt="VueJS" height="20" width="20" /> VueJS <br>
-   <img align="center" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="InertiaJS" height="20" width="20" /> Inertia.js
+      <img align="center" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" alt="InertiaJS" height="20" width="20" /> Inertia.js <br>
+      <img align="center" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="ExpressJS" height="20" width="20" /> Express.js
   </td>
 <!--   <td>
     I'm currently learning:<br>
